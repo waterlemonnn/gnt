@@ -205,3 +205,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for dev setup and how to open a PR. Eve
 [![Discussions](https://shieldcn.dev/badge/discussions-github.svg?variant=secondary)](https://github.com/gnt-ai/gnt/discussions) [![Issues](https://shieldcn.dev/github/issues/gnt-ai/gnt.svg?variant=secondary)](https://github.com/gnt-ai/gnt/issues) [![Code of conduct](https://shieldcn.dev/badge/code%20of%20conduct-CODE_OF_CONDUCT.md.svg?variant=secondary)](CODE_OF_CONDUCT.md)
 
 </div>
+verification
